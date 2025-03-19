@@ -26,7 +26,7 @@ CoinGecko API
 
 
 ## Demo
-You can visit the live demo of the application [here](https://crypto-tracker-6c61fwo1p-kaifs-projects-aa8577c9.vercel.app/).
+You can visit the live demo of the application [here](https://crypto-tracker-alpha-tan.vercel.app/).
 
 ## Installation
 To get a local copy up and running, follow these steps:
