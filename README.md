@@ -2,9 +2,11 @@
 Crypto Tracker is a web application that provides real-time price updates, rankings, and historical price changes of various cryptocurrencies. This application is built using React and leverages the CoinGecko API to fetch cryptocurrency data. The charts are rendered using react-chartjs-2 for a visually appealing presentation of data over various timeframes.
 
 
-![image 1](https://github.com/gufran21/becrypto/assets/111707501/9fa51c97-f7c3-4c98-a1a0-2a6a01cdf92c)
+![image](https://github.com/user-attachments/assets/bdef1c0d-4415-4dfb-9204-f633a00fff6e)
 
-![image 2](https://github.com/gufran21/becrypto/assets/111707501/cfef053d-c97c-4506-aa92-71e438156abb)
+
+![image](https://github.com/user-attachments/assets/bc48d7ca-c496-4d2c-9c47-054b198acca9)
+
 
 
 ## Features
