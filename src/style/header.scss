@@ -1,0 +1,23 @@
+.nav-bar{
+    z-index: 100;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    padding: 2vmax;
+    background: linear-gradient(283deg, rgba(234,201,11,1) 0%, rgba(255,136,0,1) 100%);
+    border-radius: 0 0 40px 40px;
+    div{
+        a{
+            text-decoration: none;
+            margin: 2vmax;
+            font-size: 1.5vmax;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: 600;
+            color: #000;
+            text-transform: uppercase;
+            
+        }
+    }
+    
+}

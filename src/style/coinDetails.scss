@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+.coinDetails{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:"Roboto";
+    .currency{
+        margin-top: 3vmax;
+        width: 200px;
+        height: 30px;
+        border: 2px solid black;
+        border-radius:5px ;
+        outline: none;
+
+    }
+    .container{
+        width: 50%;
+        padding: 2vmax;
+      
+        .days{
+            float: right;
+        }
+        div{
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            img{
+                margin-top: 3rem;
+                width: 12vmax;
+            }
+            h3{
+                
+                margin: 0.5rem 0;
+            }
+            span{
+                font-size: 1.2rem;
+                 font-weight: 500;
+            }
+            .change{
+               display: flex;
+               flex-direction: row;
+               justify-content: center;
+               align-items: center;
+
+               span{
+                font-size: 1rem;
+                margin: 0;
+                padding: 0;
+                font-weight: 400;
+                color: rgb(81, 81, 81);
+               }
+            }
+            .rank{
+                border-radius:2px;
+                text-align: center;
+                display: inline-block;
+                height: 25px;
+                background-color: black;
+                color: white;
+            }
+            .progress-bar{
+                width: 100%;
+                margin-top: 2rem;
+                background-color: gray;
+                border-radius: 3px;
+            .progress{
+                
+                width: 50%;
+                height: 20px;
+                background-color: green;
+            }
+        }
+        .range24{
+            width: 100%;
+           display: flex;
+           flex-direction: row;
+           justify-content: space-between;
+         }
+         
+        }
+        .marketData{
+            border-top: 2px solid rgba(127, 124, 124, 0.712);
+            margin: 3rem 0;
+            padding: 3rem 0;
+            div{
+                width: 100%;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+            }
+         }
+    }
+}
+@media screen and (max-width:1000px){
+    .coinDetails{
+        .container{
+            width: 70%;
+        }
+    }
+    
+}
+@media screen and (max-width:680px){
+    .coinDetails{
+        
+        .container{
+            width: 90%;
+            div{
+                span{
+                    font-size: 1rem;
+                }
+            }
+        }
+    }
+    
+}
