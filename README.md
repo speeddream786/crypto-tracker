@@ -24,7 +24,7 @@ CoinGecko API
 
 
 ## Demo
-You can visit the live demo of the application [here](https://becryto-gufran21.vercel.app).
+You can visit the live demo of the application [here](https://crypto-tracker-b3rqwijqi-kaifs-projects-aa8577c9.vercel.app/).
 
 ## Installation
 To get a local copy up and running, follow these steps:
