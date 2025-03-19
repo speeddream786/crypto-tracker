@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className='home'>
       <img src={image1}></img>
-      <h1>BeCrypto</h1>
+      <h1>Crypto Tracker</h1>
     </div>
   )
 }
